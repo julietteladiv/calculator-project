@@ -1,2 +1,2 @@
-let one = document.querySelector("#1");
-let two = document.querySelector("#2");
+let one = document.querySelector("#one");
+let two = document.querySelector("#two");
